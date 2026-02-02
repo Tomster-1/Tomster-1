@@ -1,6 +1,6 @@
-# Hi, I'm Thomas & here's my Engineering Portfolio on GitHub.👋
----
 # It is now 85 seconds to midnight
+---
+# Hi, I'm Thomas & here's my Engineering Portfolio on GitHub.👋
 
 I'm a **3rd-year MEng Mechanical Engineering** student at the **University of Exeter**.  
 I’m interested in **simulation-led engineering** (CFD/FEA/control), **numerical methods**, and **practical design for manufacture** work that actually ships.
