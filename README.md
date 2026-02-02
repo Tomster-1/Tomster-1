@@ -4,7 +4,9 @@
 ---
 
 I'm a **3rd-year MEng Mechanical Engineering** student at the **University of Exeter**.  
-I’m interested in **simulation-led engineering** (CFD/FEA/control), **numerical methods**, and **practical design-for-manufacture** work that actually ships.
+I’m interested in **simulation-led engineering** (CFD/FEA/control), **numerical methods**, and **practical design for manufacture** work that actually ships.
+I’m also interested in **data-centric engineering** as a future study focus: designing scalable, reliable data systems for quantitative finance, including streaming market data, low-latency pipelines,
+data validation/monitoring, labeling & feature stores, reproducible research (experiment tracking), and deployment workflows that turn raw data into tradable signals.
 
 Some of the repositories here are either:
 - **coursework/practical submissions exported from Jupyter/MATLAB**, or
