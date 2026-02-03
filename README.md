@@ -1,4 +1,4 @@
-# It is now 85 seconds to midnight
+# It is now 85 seconds to midnight; giving more reason than ever to learn with urgency, progress with purpose and live deliberately.
 # Hi, I'm Thomas & here's my Engineering Portfolio on GitHub.👋
 
 I'm a **3rd-year MEng Mechanical Engineering** student at the **University of Exeter**.  
